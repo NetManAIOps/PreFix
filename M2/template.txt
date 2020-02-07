@@ -1,0 +1,373 @@
+%%10LLDP/6/LLDP_DELETE_NEIGHBOR: is GigabitEthernet on Ten Port IfIndex the neighbor to agent bridge Nearest of port changed down state because deleted state, inactive physical AGG
+%%10LLDP/5/LLDP_REACH_NEIGHBOR_LIMIT: GigabitEthernet IfIndex the agent bridge of port by The has reached number neighbors more and no nearest maintained can be added
+%%10LAGG/2/LAGG_LOG(l): is GigabitEthernet Port the of group aggregation BAGG because for configuration member becomes improper port's INACTIVE,
+%%10LAGG/6/LAGG_INACTIVE_PARTNER: is the of port group Member XGE aggregation BAGG because configuration became its inactive, improper partner
+%%10NTP/5/NTP_CHANGE_STRATUM: is Line Command IPAddr User vty interface to from changed System dis clock after liuxiaojun; stratum cur vlan MD
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on Ten Command User the interface protocol rule source chengjunfeng; tcp permit established
+%%10PFILTER/3/PFILTER_IF_NO_RES: the interface to of Vlan The or rule Failed ACL resources refresh outbound insufficient are apply direction
+%%10OSPF/4/IF_RETX(t): to OSPF TrapID Router LsdbLsid LsdbType LsdbRouterId index Interface ospfTxRetransmit Retransmit RID Nbr LsdbAreaId
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT: is GigabitEthernet on Ten Port IfIndex Chassis neighbor agent bridge Nearest status link out aged up
+%%10PING/6/PING_STATIS_INFO: is GigabitEthernet Ten status link DOWN packet for Ping statistics transmitted, PHY_UPDOWN received,IFNET
+%%10OSPF/6/OSPF_LAST_NBR_DOWN: ID neighbor OSPF down Router address event Interface Remote Reason Local Last Parameters Ospf Changed
+%%10SHELL/6/SHELL_CMD: is Line IPAddr vty the to of port changed down group aggregation BAGG state because state, inactive physical
+%%10DEVM/1/SUB is Trap subslotIndex slotIndex chassisIndex INSERTED CARD hhcSubcardInsert
+%%10SHELL/6/SHELL_CMD: is Line IPAddr vty status link down Bridge Aggregation PHY_UPDOWN
+%%10LLDP/2/CREREM(l): GigabitEthernet ID Port IfIndex port new chassis neighbor, Created
+%%10LLDP/2/AGEOUTREM(l): GigabitEthernet ID Port IfIndex port Neighbor aged chassis out,
+%%10STP/6/STP_DETECTED_TC: GigabitEthernet Ten port change Instance 's topology detected
+%%10IFNET/4/INTERFACE is Trap UPDOWN Interface ifOperStatus ifAdminStatus linkDown Down,
+%%10LS/5/LS_AUTHOR_FAILURE(l): is User failed command not found AccessType Authorization
+%%10OPTMOD/4/PHONY_MODULE: is GigabitEthernet Ten status link Aggregation DOWN This tre
+%%10STP/6/STP_DETECTED_TC: port Bridge Aggregation change Instance 's topology detected
+%%10DEV/1/SUB is Trap subslotIndex slotIndex chassisIndex INSERTED CARD hwSubcardInsert
+%%10SHELL/4/LOGINAUTHFAIL(t): is to from Trap failed login reason hhcLogInAuthenFailure
+%%10OSPF/5/MAXAGE_LSA(t): OSPF TrapID LsdbLsid LSA ospfMaxAgeLsa LsdbType Aged Id Area
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Full Process NBRCHANGE ExStart
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Full Process NBRCHANGE Loading
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Down Process NBRCHANGE ExStart
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: is Command of port Member XGE dis fan vyang; Normal
+%%10NTP/5/NTP_CHANGE_LEAP(l): to from changed System clock after update Leap Indicator
+%%10DEV/1/SUB is Trap REMOVED subslotIndex slotIndex chassisIndex CARD hwSubcardRemove
+%%10ARP/5/ARP_DUPIFIP(l): GigabitEthernet on interface from address sourced Duplicate
+%%10IFNET/3/PHY_UPDOWN: is cfg Command User startup put tftp  link Bridge Aggregation
+%%10IFNET/5/LINK_UPDOWN: Line cfg on Ten the interface   protocol GigabitEthernettup
+%%10DEVM/4/SUBCARD_INSERTED(l): is Chassis Slot in type SubSlot SubCard inserted 
+%%10OPTMOD/5/CHKSUM_ERR: GigabitEthernet Ten Transceiver information error! checksum
+%%10IFNET/4/INTERFACE is Trap UPDOWN Interface ifOperStatus ifAdminStatus linkUp Up,
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on Ten the interface protocol down
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on Ten the interface protocol DOWN
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol status down Bridge Agink
+%%10PING/6/PING_STATIS_INFO: packet for Ping statistics transmitted, received, loss
+%%10NTP/5/NTP_CHANGE_LEAP: to from changed System clock after update Leap Indicator
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Down Process NBRCHANGE Init
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Full Down Process NBRCHANGE
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Full Process NBRCHANGE Init
+%%10LLDP/2/AGEOUTREM(l): GigabitEthernet ID Port IfIndex port aged chassis out, cca
+%%10SYSMIB/4/CLKCHANGE(t): Trap changed System clock hhcSysClockChangedNotification
+%%10SHELL/6/SHELL_CMD: is Command User interface Bridge Aggregation display  Linedr
+%%10PING/6/PING_STATIS_INFO: protocol packet received, trip std round min max loss,
+%%10DEV/4/SUBCARD is Chassis Slot in type SubSlot SubCard INSERTED inserted LSWSPP
+%%10DEV/4/SUBCARD is Chassis from Slot type REMOVED SubSlot SubCard LSWSPP removed
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol down Bridge Aggregation
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol Bridge Aggregation DOWN
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Down Process NBRCHANGE Way
+%%10NTP/5/NTP_CHANGE_STRATUM(l): to from changed System clock after update stratum
+%%10OPTMOD/4/MODULE_IN: is GigabitEthernet Ten transceiver The G_BASE_LR_QSFP_PLUS
+%%10OPTMOD/4/PHONY_MODULE: is cfg Ten Command IPAddr User startup put tftp    Giga
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on Ten the interface protocol UP
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on Ten the interface protocol up
+%%10MSTP/2/PFWD(l): GigabitEthernet to Instance 's has been state! set forwarding
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol Bridge Aggregation UP
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol Bridge Aggregation up
+%%10SHELL/4/LOGOUT(t): from Trap group VTY logout hhcLogOut server ip relay dhcp
+%%10OPTMOD/4/MODULE_IN: is GigabitEthernet Ten transceiver The UNKNOWN_QSFP_PLUS
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet cfg Ten Command startup put tftp link
+%%10IFNET/5/LINK_UPDOWN: GigabitEthernet Line cfg on Ten the interface protocol
+%%10NTP/5/NTP_CHANGE_STRATUM: to from changed System clock after update stratum
+%%10IFNET/3/PHY_UPDOWN: is cfg Ten Command User startup put tftp    GigabitEthe
+%%10ENTITY/4/TEMPERATURE_NORMAL(t): is ID Trap status admin Entity temperature warning threshold low hcEntityExtTemperatureNormal
+%%10ENTITY/1/PHONY is GigabitEthernet Ten ID Trap status admin Entity light alarm name extend entity ENTITY hhcEntityExtSFPPhony
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: is the of port down group Member XGE aggregation BAGG state because physical became inactive,
+%%10LLDP/2/TOOMANGREM(l): is GigabitEthernet on Port IfIndex the of port has been reached number neighbors which maximum allowed
+%%10OSPF/6/OSPF_LAST_NBR_DOWN(l): ID neighbor OSPF down Router address event Remote Reason Local Last timer expired DeadInterval
+%%10OSPF/5/MAXAGE_LSA(t): is GigabitEthernet on ID Port IfIndex Chassis OSPF Neighbor out aged TrapID bad LLDP_NEIGHBOR_AGE_OUT
+%%10LLDP/6/LLDP_CREATE_NEIGHBOR: is on ID Port IfIndex Chassis neighbor agent bridge Nearest created new FortyGigE Ethernet 
+%%10OSPF/5/NEIGHBOR_STATE_CHANGE(t): neighbor to OSPF state TrapID Router index change virtual Non ospfNbrStateChange NbrRouter
+%%10SC/6/SC_AAA_SUCCESS(l): is UserName Service AAAType AAAScheme AAA com; command scheme successful hwtacacs com baidu ACCOUNT
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT: is GigabitEthernet cfg on Ten ID Port IfIndex Chassis neighbor agent bridge Nearest out aged
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface to of port protocol down Bridge state because state, inactive physical Aggrd
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT: is on ID Port IfIndex Chassis neighbor agent bridge Nearest out aged FortyGigE Ethernet 
+%%10OSPF/4/IF_RETX(t): is to OSPF TrapID Router LsdbLsid LsdbRouterId index Interface ospfTxRetransmit Retransmit RID Nbr Type
+%%10OSPF/3/IF_CFG_ERROR(t): interface OSPF TrapID Router index error virtual Non config PacketType ospfIfConfigError PacketSrc
+%%10OSPF/6/OSPF_LAST_NBR_DOWN: ID neighbor OSPF down Router address event Remote Reason Local Last timer expired DeadInterval
+%%10LLDP/6/LLDP_DELETE_NEIGHBOR: is GigabitEthernet on Ten ID Port IfIndex Chassis neighbor agent bridge Nearest Slot deleted
+%%10SHELL/6/SHELL_CMD: is Line IPAddr User vty the to of port changed down state because state, inactive physical liuxiaojGG
+%%10LLDP/6/LLDP_CREATE_NEIGHBOR: is on ID Port IfIndex Chassis neighbor agent bridge Nearest created new FortyGigE Ethernet
+%%10SHELL/6/SHELL_CMD: Line the of device or normal NOT shall guarantee function thereof! assume responsibility maintenance
+%%10OSPF/3/IF_AUTH_FAIL(t): interface OSPF TrapID Router index virtual Non authentication PacketType ospfIfAuthFailure fail
+%%10SC/5/SC_AAA_FAILURE(l): is failed login UserName Service AAAType AAAScheme AAA scheme hwtacacs com baidu Common AUTHEN
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet Line on Ten the interface protocol link Bridge Aggregation DOWN NET LINK_UPDOWN
+%%10RM/3/RMLOG(l): is interface protocol Vlan changed The or address has been route output nexthop deleted, default OSPF,
+%%10OSPF/6/ORIGINATE_LSA(t): OSPF new TrapID Router LsdbLsid LSA LsdbType LsdbRouterId ospfOriginateLsa Originate AreaId
+%%10SC/5/SC_AAA_FAILURE(l): is failed UserName Service AAAType AAAScheme AAA com; command AUTHOR scheme hwtacacs Common
+%%10CFGMAN/4/TRAP(t): Trap EventIndex ConfigSource CommandSource ConfigDestination configure hhcCfgManEventlog changed,
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT: is GigabitEthernet on ID Port IfIndex Chassis neighbor agent bridge Nearest out aged
+%%10SC/5/SC_AAA_FAILURE(l): is failed login UserName Service AAAType AAAScheme AAA com; AUTHOR scheme hwtacacs Common
+%%10LS/5/LS_AUTHEN_FAILURE(l): is User failed login UserName not found AccessType Authentication tc tc; sysnoc ssh nb
+%%10LLDP/6/LLDP_CREATE_NEIGHBOR: is on ID Port IfIndex Chassis neighbor agent bridge Nearest created new cc FortyGigE
+%%10HWCM/4/TRAPLOG(l): changed EventIndex configure ,ConfigSource ,ConfigDestination ,CommandSource hhcCfgManEventlog
+%%10SC/6/SC_AAA_SUCCESS(l): is UserName Service AAAType AAAScheme AAA com; command AUTHOR scheme successful hwtacacs
+%%10LLDP/6/LLDP_CREATE_NEIGHBOR: is GigabitEthernet on ID Port IfIndex Chassis neighbor agent bridge Nearest created
+%%10LLDP/6/LLDP_DELETE_NEIGHBOR: is GigabitEthernet on ID Port IfIndex Chassis neighbor agent bridge Nearest deleted
+%%10HWCM/4/TRAPLOG(l): changed EventIndex configure ,ConfigSource ,ConfigDestination ,CommandSource hcCfgManEventlog
+%%10OSPF/6/OSPF_LAST_NBR_DOWN(l): ID neighbor OSPF down Router address event Remote Reason Local Last Ospf_ifachange
+%%10SHELL/6/SHXGE2/0/19 is the to of port changed down group aggregation BAGG state because state, inactive physical
+%%10LAGG/1/AggPortInactive2(t): port Trap Aggregation member becomes Group hhcAggPortInactiveNotification INACTIVE!
+%%10CFGMAN/4/TRAP(t): changed EventIndex configure ,ConfigSource ,ConfigDestination ,CommandSource hcCfgManEventlog
+%%10IPTRAP/4/IPADDR_Trap(t): is Trap changed New address Interface hhcIpAddressChangeNotify Old IpAddress IpAddr IP
+%%10CFGMAN/5/CFGMAN_CFGCHANGED(l): is changed EventIndex ConfigSource CommandSource Configuration ConfigDestination
+%%10LAGG/1/AggPortRecoverActive(t): port Trap Aggregation member becomes Group ACTIVE! hhcAggPortActiveNotification
+%%10HWCM/4/TRAP(t): changed EventIndex configure ,ConfigSource ,ConfigDestination ,CommandSource hhcCfgManEventlog
+%%10SHELL/5/SHELL_LOGIN: is GigabitEthernet on ID Port IfIndex Chassis neighbor agent bridge created bond learest
+%%10OSPF/6/OSPF_LAST_NBR_DOWN: ID neighbor OSPF down Router address event Remote Reason Local Last Ospf_ifachange
+%%10RM/3/RMLOG(l): ID neighbor OSPF down event timer expired DeadInterval last ROUTER REMOTE REASON LOCAL ADDRESS
+%%10HWCM/4/TRAP(t): changed EventIndex configure ,ConfigSource ,ConfigDestination ,CommandSource hcCfgManEventlog
+%%10DEV/4/TEMPERATURE_WARNING(l): is on Chassis slot sensor warning hotspot upper than limit greater Temperature
+%%10IFNET/5/LINK_UPDCMD: is GigabitEthernet Line Ten Command IPAddr User vty interface transceiver dis diagnosis
+%%10OSPF/5/IF_STATE_CHANGE(t): interface to OSPF state TrapID Router index change virtual Non ospfIfStateChange
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: is cfg Command User startup put tftp   of port  group Member XGE aggregation
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: cfg startup the  to of port changed group Member XGE aggregation BAGG inac
+%%10CFGMAN/5/CFGMAN_CFGCHANGED: EventIndex ConfigSource CommandSource Configuration ConfigDestination running;
+%%10SC/5/SC_AAA_FAILURE(l): is failed UserName Service AAAType AAAScheme AAA com; command local AUTHOR Common
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT(l): is GigabitEthernet on Ten ID Port IfIndex Chassis Neighbor out aged Eth
+%%10SC/5/SC_AAA_FAILURE(l): is failed login UserName Service AAAType AAAScheme AAA com; local AUTHOR Common
+%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT(l): is GigabitEthernet on Ten ID Port IfIndex Chassis Neighbor out aged Eth
+%%10LLDP/2/CREREM(l): is Port changed EventIndex ConfigSource CommandSource Configuration ConfigDestination
+%%10PING/6/PING_STATIS_INFO: is the of port down state because physical packet for Ping statistics transm,
+%10OSPF/5/MAXAGE_LSA(t): OSPF TrapID Router LsdbLsid LSA ospfMaxAgeLsa LsdbType Aged Id Area LsdbRouterId
+%%10SC/6/SC_AAA_SUCCESS(l): is login UserName Service AAAType AAAScheme AAA com; local successful ACCOUNT
+%%10SHELL/6/SHELL_CMD: is Line cfg Command IPAddr User vty startup put CQ_IP__ **; user role ope network
+%%10PING/6/PING_STATIS_INFO: is GigabitEthernet Ten interface up packet for Ping statistics transmitted,
+%%10OSPF/5/MAXAGE_LSA(t): is cfg Command IPAddr User put tftp OSPF Task vt TrapID LSA ospfMaxAgeLsa Aged
+%%10LLDP/2/AGEOUTREM(l): GigabitEthernet ID Port port Neighbor aged chassis out, dd cca ndex IfIFNIET IN
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: is GigabitEthernet Line on Ten the interface of port protocol Member
+%%10ENTITY/1/PHONY is GigabitEthernet ID Trap status admin Entity light alarm name extend entity ENTITY
+%%10OSPF/5/MAXAGE_LSA(t): cfg put tftp OSPF vt TrapID LsdbLsid LSA ospfMaxAgeLsa LsdbType Aged Id Area
+%%10OPTMOD/4/MODULE_IN: is GigabitEthernet Ten Command User transceiver The dis lvyanglvyang; cur STAC
+%%10LLDP/6/LLDP_CREATE_NEIGHBOR(l): is GigabitEthernet on ID Port IfIndex Chassis neighbor created New
+%%10SHELL/6/SHELL_CMD: is GigabitEthernet Line cfg Ten Command IPAddr User vty startup put tftp   int
+%%10RM/3/RMLOG(l): ID neighbor OSPF down event Ospf_ifachange last ROUTER REMOTE REASON LOCAL ADDRESS
+%%10SC/6/SC_AAA_LAUNCH(l): UserName Service AAAType AAAScheme AAA com; command local launched ACCOUNT
+%%10OSPF/5/NEIGHBOR_STATE_CHANGE(t): neighbor OSPF TrapID Router index virtual Non ospfNbrStateChange
+%%10ENTITY/4/TEMPERATURE is ID Trap status admin Entity light alarm temperature threshold CHANGED C,
+%%10SC/6/SC_AAA_LAUNCH(l): UserName Service AAAType AAAScheme AAA com; command local AUTHOR launched
+%%10SHELL/6/SHELL_CMD(%l%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Full Loading
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT(l): is GigabitEthernet on ID Port IfIndex Chassis Neighbor out aged
+%%10DEVM/5/TEMPERATURE_NORMAL(l): on Chassis to normal slot temperature changes sensor Board inflow
+%%10LAGG/6/LAGG_ACTIVE: is Command of port group Member XGE aggregation display logbuffer BAGGfeng;
+%%10SC/6/SC_AAA_LAUNCH(l): login UserName Service AAAType AAAScheme AAA com; local launched ACCOUNT
+%%10DEV/4/TEMPERATURE_NORMAL(l): on Chassis to normal slot temperature changes sensor hotspot Board
+%%10SC/6/SC_AAA_SUCCESS(l): is login UserName Service AAAType AAAScheme AAA com; successful ACCOUNT
+%%10SHELL/6/SHELL_CMD: Line Command IPAddr User vty  packet trip std round min max loss, dev avg ms
+%%10IFNET/5/LINK_UPDOWN: is Line on the of port protocol down state because state, physical thtive
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User agent ** snmp **; aux ****** read community acl
+%%10SC/6/SC_AAA_LAUNCH(l): login UserName Service AAAType AAAScheme AAA com; local AUTHOR launched
+%%10SC/6/SC_AAA_LAUNCH(l): login UserName Service AAAType AAAScheme AAA com; local launched AUTHEN
+%%10SC/6/SC_AAA_SUCCESS(l): is login UserName Service AAAType AAAScheme AAA com; AUTHOR successful
+%%10SC/6/SC_AAA_SUCCESS(l): is login UserName Service AAAType AAAScheme AAA com; successful AUTHEN
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT: is GigabitEthernet on ID Port IfIndex Chassis Neighbor out aged
+%%10SHELL/6/SHELL_CMD: Line IPAddr User vty interface of Vlan The resources insufficient are tion
+%%10OSPF/5/MAXAGE_LSA(t): is GigabitEthernet on ID Port IfIndex Chassis neighbor OSPF created New
+%%10OPTMOD/3/TYPE_ERR(l): is GigabitEthernet port transceiver by The not type supported hardware!
+%%10LS/5/LS_AUTHEN_FAILURE(l): is User  failed login UserName not found AccessType Authentication
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User ** **; aux local info loghost facility center
+%%10LS/5/LS_AUTHEN_FAILURE(l): is User failed login UserName not found AccessType Authentication
+%%10MSTP/6/MSTP_NOTIFIED_TC(l): GigabitEthernet of port change Instance 's topology was notified
+%%10MSTP/1/PFWD(t): Port to Instance 's has been state! set forwarding hwPortMstiStateForwarding
+%%10SHELL/6/SHELL_C0IFNET/5/LINK_UPDOWN: is Line on the interface protocol Bridge Aggregation up
+%%10LLDP/6/LLDP_CREATE_NEIGHBOR: is GigabitEthernet on ID Port IfIndex Chassis neighbor created
+%%10ENTITY/4/ALARM is ID Trap status admin error Entity light alarm OFF hhcEntityExtSFPAlarmOff
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: cfg the to of port changed group Member XGE aggregation BAGG
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User agent ** snmp **; aux view mib iso included
+%%10SNMP/3/SNMP_ACL_RESTRICTION: is to from community ACL public restriction rejected due SNMP
+%%10ENTITY/4/ALARM is ID Trap status admin error Entity light alarm OFF hcEntityExtSFPAlarmOff
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on Ten the interface protocol DOWN inrotocol
+%%10LAGG/6/LAGG_ACTIVE: the to of port changed group Member XGE aggregation BAGG state active
+%%10OSPF/5/MAXAGE_LSA(t): OSPF TrapID Router LsdbLsid LSA ospfMaxAgeLsa LsdbType Aged Id Area
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet on Ten the interface Bridge Aggregation up rotocol
+%%10LAGG/2/LAGG_LOG(l): GigabitEthernet Port of group aggregation BAGG member becomes ACTIVE!
+%%10OPTMOD/3/CFG_ERR: GigabitEthernet Ten port type configuration Transceiver and mismatched!
+%%10ENTITY/4/ALARM is ID Trap status admin error Entity light alarm ON hhcEntityExtSFPAlarmOn
+%%10SHELL/6/SHELL_CMD: Line IPAddr User vty the to  changed group BAGG state active gregation
+%%10LLDP/5/LLDP_NEIGHBOR_AGE_OUT(l): is GigabitEthernet on ID Port Chassis Neighbor out aged
+%%10ENTITY/4/ALARM is ID Trap status admin error Entity light alarm ON hcEntityExtSFPAlarmOn
+%%10LAGG/6/LAGG_ACTIVE: is cfg Command startup put tftp of port Member XGE aggregation gust;
+%%10SHELL/6/SHELL_CMD: is Line on IPAddr vty the interface protocol down Bridge Aggregation
+%%10LAGG/6/LAGG_INACTIVE_PHYSTATE: of port down group Member XGE aggregation BAGG changedis
+%%10SHELL/4/LOGINAUTHFAIL(t): is to from Trap failed login reason VTY, hcLogInAuthenFailure
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Down Exchange
+%%10RM/3/RMLOG(l): interface to from OSPF Vlan Neighbor Full Process NBRCHANGE
+%%10STP/6/STP_DETECTED_TC: port FortyGigE change Instance 's topology detected
+%%10IFNET/5/LINK_UPDOWN: Line on Ten the interface protocol GigabitEthernecfg
+%%10IFNET/5/LINK_UPDOWN: is GigabitEthernet Line on the interface protocol up
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Full ExStart
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Down ExStart
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Full Loading
+%%10CFM/5/CFM_SAVECONFIG_SUCCESSFULLY(l): is Configuration successfully saved
+%%10OPTMOD/4/MODULE_IN: is GigabitEthernet Ten transceiver The STACK_SFP_PLUS
+%%10SYSMIB/4/CLKCHANGE(t): changed System clock hcSysClockChangedNotification
+%%10IFNET/5/LINK_UPDOWN: is Line on the of port protocol down state physical
+%%10IFNET/5/LINEPROTO_UPDOWN(l): is Line on the interface protocol Vlan DOWN
+%%10DRVDBG/2/LOG to of slot Failed subslot please it! initialize check Info
+%%10SHELL/6/SHELL_CMD: Line vty the to changed BAGG state active IPAdgroup
+%%10PING/6/PING_LOG(l): packet statistics loss ping transmitted; received;
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Down Init
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Full Down
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Full Init
+%%10LLDP/2/CREREM(l): is GigabitEthernet Port status link DOWN UPDOWN LINK
+%%10OSPF/5/OSPF_NBR_CHG: interface to from OSPF Vlan Neighbor FULL EXSTART
+%%10OSPF/5/OSPF_NBR_CHG: interface to from OSPF Vlan Neighbor DOWN EXSTART
+%%10OSPF/5/OSPF_NBR_CHG: interface to from OSPF Vlan Neighbor FULL LOADING
+%%10OSPF/5/OSPF_NBR_CHG: interface to from OSPF Vlan Neighbor FULL INIT
+%%10SHELL/6/: is Line on the interface protocol down Bridge Aggregation
+%%10DEVM/4/SYSTEM Trap system start START hhcSysColdStartTrap cold COLD
+%%10DEVM/4/SYSTEM Trap system start START warm hhcSysWarmStartTrap WARM
+%%10SHELL/6/SHELL_CMD: is Line IPAddr User vty  status link down Comman
+%%10DEV/1/POWER is ID Trap power TO STATE CHANGES FAILURE powerfailure
+%%10SHELL/6/SHELL_CMD: is Line IPAddr vty the of port down state sical
+%%10OPTMOD/5/RX_POW_NORMAL(l): is GigabitEthernet Ten power RX normal!
+%%10OPTMOD/4/PHONY_MODULE: GigabitEthernet cfg Ten startup put  Thitp
+%%10SHELL/6/SHELL_CMD: Line IPAddr vty absent Transceiver bitEthernet
+%%10SHELL/5/SHELL_LOGINFAIL(l): on to failed in user log netadmin AUX
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol Vlan DOWN
+%%10IFNET/5/LINK_UPDOWN: Line the to changed BAGG state active proup
+%%10DEVM/1/FAN is ID Trap TO STATE CHANGES fan FAILURE hhcfanfailure
+%%10NTP/4/NTP_LOG(l): to from System clock after update changes leap
+%%10SHELL/6/S/SHELL_CMD: is Line Command IPAddr User vty quit xuwen;
+%%10OPTMOD/5/TX_ALM_ON(l): is GigabitEthernet Ten TX_fault detected!
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet Ten status link UP erface
+%%10SHELL/6/SHELL_CMD: is Line cfg Command IPAddr User vty put tftp
+%%10SHELL/6/SHELL_CMD: is Line Command interface Bridge Aggregation
+%%10SHELL/6/SHELL_CMD: is GigabitEthernet Ten status link down DOWN
+%%10SHELL/6/SHe is GigabitEthernet on Ten the interface protocol UP
+%%10IFNET/3/LINK_UPDOWN(l): is GigabitEthernet Ten status link DOWN
+%%10SHELL/6/SHELL_CMD: is Line cfg IPAddr User vty startup put tftp
+%%10SHELL/6/SHELL_CMD: Line cfg IPAddr User vty startup put  Comman
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol Vlan UP
+%%10DEVM/1/FAN is ID Trap TO STATE CHANGES fan NORMAL hhcFanNormal
+%%10IFNET/4/UPDOWN(l): is Line on the interface protocol Vlan DOWN
+%%10SHELL/4/LOGOUT(t): from Trap logout netadmin hhcLogOut Console
+%%10SHELL/6/SHELL_CMD(l): is cfg Command IPAddr User tftp Task get
+%%10SHELL/5/SHELL_LOGINFAIL(l): on to failed in user admin log AUX
+%%10SHELL/4/LOGINFAIL(l): on to from failed login user VTY TELNET
+%%10CFM/3/CFM_SAVECONFIG_FAILED(l): to Failed save configuration!
+%%10IFNET/3/LINK_UPDOWN(l): is GigabitEthernet Ten status link UP
+%%10SHELL/5/SHELL_LOGINFAIL(l): on to failed in user log AUX root
+%%10SYSLOG/6/SYSLOG_RESTART: HC System restarted Software Comware
+%%10IFNET/3/PHY_UPDOWN: is cfg Command startup put tftp   Tenst;
+%%10IFNET/4/UPDOWN(l): is Line on the interface protocol Vlan UP
+%%10SHELL/6/SHELL_CMD GigabitEthernet Ten interface in dis error
+%%10OPTMOD/5/RX_POW_LOW(l): is GigabitEthernet Ten power RX low!
+%%10DEV/1/FAN is ID Trap TO STATE CHANGES fan NORMAL hwFanNormal
+%%10DEV/1/FAN is ID Trap TO STATE CHANGES fan FAILURE fanfailure
+%%10NTP/5/NTP_SOURCE_LOST(l): System source synchronization lost
+%%10IFNET/5/LINK_UPDOWN: Line cfg on Ten the interface protocol
+%%10OPTMOD/4/MODULE_OUT: GigabitEthernet Ten absent Transceiver
+%%10IFNET/5/LINK_UPDOWN: is Line on the port protocol down inof
+%%10SHELL/6/SHELL_CMD: Line cfg IPAddr User vty C_ zhangshimin;
+%%10SHELL/4/LOGIN(t): from Trap login netadmin Console hhcLogIn
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet Ten status link DOWN
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet Ten status link down
+%%10NTP/5/NTP_SOURCE_LOST: server synchronization NTP with Lost
+%%10IFNET/4/LINK is GigabitEthernet Ten status link DOWN UPDOWN
+%%10IFNET/3/LINK_UPDOWN(l): is GigabitEthernet status link DOWN
+%%10SHELL/6/SHELL_CMD: is Line Bridge Aggregation up vtterface
+%%10IFNET/3/PHY_UPDOWN: is status link down Bridge Aggregation
+%%10IFNET/3/PHY_UPDOWN: is status link Bridge Aggregation DOWN
+%%10IFNET/4/LINK is status link Bridge Aggregation DOWN UPDOWN
+%%10IFNET/3/LINK_UPDOWN(l): is interface status link Vlan DOWN
+%%10OPTMOD/4/MODULE_IN: is GigabitEthernet Ten transceiver The
+%%10SHELL/6/SHELL_CMD: is the interface Bridge Aggregation up
+%%10IFNET/4/LINK is GigabitEthernet Ten status link UP UPDOWN
+%%10IFNET/3/LINK_UPDOWN(l): is GigabitEthernet status link UP
+%%10IFNET/3/PHY_UPDOWN: is status link Bridge Aggregation up
+%%10IFNET/3/LINK_UPDOWN(l): is interface status link Vlan UP
+%%10SHELL/6/SHELL_SECLOG(l): is Command IPAddr User Task vt
+%%10IFNET/4/LINK is GigabitEthernet status link DOWN UPDOWN
+%%10OPTMOD/4/MODULE_IN: is GigabitEthernet Ten transceiver
+%%10IFNET/5/LINK_UPDOWN: is Line on protocol up theegation
+%%10IFNET/5/LINK_UPDOWN: Line cfg on the protocol interfa_
+%%10IC/6/SYS_RESTART: HC System restarted Software Comware
+%%10OSPF/5/OSPF_NBR_CHG: cfg OSPF Vlan Neighbor interface_
+%%10IFNET/3/PHY_UPDOWN: is interface status link Vlan DOWN
+%%10DEVM/5/POWER_RECOVERED(l): Power recovered PowerSupply
+%%10IFNET/4/LINK is interface status link Vlan DOWN UPDOWN
+%%10SHELL/4/LOGOUT(t): from Trap logout  hhcLogOut Console
+%%10SHELL/6/SHELL_CMD: is Command User display include arp
+%%10IFNET/5/LINK_UPDOWN: thereof! responsibility Linnance
+%%10CFGMAN/5/CFGMAN_EXIT(l): from configuration mode Exit
+%%10SHELL/4/LOGOUT(t): from Trap logout hhcLogOut Console
+%%10DEVM/1/POWER is ID Trap power REMOVED hhcPowerRemoved
+%%10DEVM/1/POWER is ID Trap power INSERT hhcPowerInserted
+%%10IFNET/3/PHY_UPDOWN: is GigabitEthernet status link UP
+%%10IFNET/3/PHY_UPDOWN: the to changed state active Bridg
+%%10IFNET/4/LINK is GigabitEthernet status link UP UPDOWN
+%%10SHELL/4/CMD%%10S(l): vt vst tiant shtut c HtaELLs CMD
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User agent
+%%10SHELL/5/SHELL_LOGINFAIL(l): on to failed in user log
+%%10IFNET/5/LINK_UPDOWN: Line on the protocol interfacfg
+%%10SHELL/6/SHELL_CMD: is changed Configuration running;
+%%10SHELL/6/SHELL_CMD: Line IPAddr vty to from FULL INIT
+%%10STP/6/STP_DISABLE: is on the device now disabled STP
+%%10MEM/4/WARNING(l): for slot patch completed uninstall
+%%10IFNET/3/PHY_UPDOWN: is interface status link Vlan up
+%%10IFNET/4/LINK is interface status link Vlan UP UPDOWN
+%%10OPTMOD/5/TX_ALM_OFF(l): is GigabitEthernet Ten gone
+%%10DEV/1/POWER is ID Trap power REMOVED hwPowerRemoved
+%%10DEV/1/POWER is ID Trap power INSERT hwPowerInserted
+%%10CFGMAN/5/CFGMAN_CFGC dis ospf router originate lsdb
+%%10SHELL/5/SHELL_LOGIN: cfg from in logged guozhenyuan
+%%10DEVM/3/POWER_ABSENT(l): is Power absent PowerSupply
+%%10SHELL/4/LOGIN(t): from Trap login  Console hhcLogIn
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User vty
+%%10IFNET/3/PHY_UPDOWN: cfg Ten GigabitEthern
+%%10SHELL/6/SHELL_CMD is cfg startup put tftp
+%%10SHELL/5/SHELL_LOGOUT(l): from out logged
+%%10HWCM/4/EXIT(l): from configure mode exit
+%%10DEV/5/POWER_RECOVERED: Power recovered
+%%10SHELL/5/SHELL_LOGIN(l): from in logged
+%%10IFNET/3/PHY_UPDOWN: is status link up
+%%10DEV/4/POWER Power recovered RECOVERED
+%%10NTP/4/NTP_LOG(l): service NTP enabled
+%%10SHELL/5/SHELL_LOGOUT: from out logged
+%%10SHELL/4/LOGIN(t): from Trap login VTY
+%%10SHELL/6/angbowen; is Command dis vlan
+%%10SHELL/6/SHELL_CMD: thereof! Libility
+%%10DEV/3/POWER_ABSENT: is Power absent
+%%10SHELL/5/SHELL_LOGIN: from in logged
+%%10DEV/2/POWER_FAILED: failed Power
+%%10SHELL/4/LOGOUT(l): from logout
+%%10SHELL/4/LOGIN(l): from login
+%%10DEVM/1/POWER is ID Trap power TO STATE CHANGES FAILURE hhcpowerfailure
+%%10LLDP/6/LLDP_DELETE_NEIGHBOR: agent bridge Nearest thereof! neighbolity
+%%10OPTMOD/3/TYPE_ERR: GigabitEthernet Ten not type Transceiver supported!
+%%10IFNET/5/LINEPROTO_UPDOWN(l): is Line on the interface protocol Vlan UP
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User  command aux accounting
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr User  aux service ntp enable
+%%10LAGG/6/LAGG_ACTIVE: of port group Member XGE aggregation BAGG inactive
+%%10DEV/1/POWER is ID Trap power TO STATE CHANGES FAILURE hhcpowerfailure
+%%10MEM/4/WARNING(l): for slot patch completed install
+%%10SHELL/4/LOGIN(t): from Trap login Console hhcLogIn
+%%10SHELL/6/SHELL_CMD: Line vty Aggregation IPAddrdge
+%%10SHELL/4/LOGOUT(t): from Trap VTY logout hhcLogOut
+%%10SHELL/6/SHELL_CMD: is Line IPAddr User vty  down
+%%10DEVM/2/POWER_FAILED(l): failed Power PowerSupply
+%%10LOGIN/6/LOGIN_FAILED: to from failed in log quit
+%%10DEVM/5/SYSTEM_REBOOT(l): is System now rebooting
+%%10SHELL/4/LOGOUT(t): from Trap VTY logout hcLogOut
+%%10SHELL/6/SHELL_CMD: is Line Command IPAddr vty
+%%10SHELL/5/SHELL_LOGOUT(l): from out aux logged
+%%10SHELL/ser=chengjunfeng; is Command rule undo
+%%10SHELL/6/SHELL_CMD: Line cfg IPAddr User vty
+%%10SHELL/6/SHELL_CMD: Line cfg vty startup put
+%%10DEV/4/SYSTEM is System now rebooting REBOOT
+%%10LOGIN/6/LOGIN_FAILED: to from failed in log
+%%10SHELL/6/SHELL_CMD: is Line IPAddr vty DOWN
+%%10DEVM/1/REBOOT(t): by device command Reboot
+%%10SHELL/6/SHELL_CMD: is Line IPAddr vty  UP
+%%10IFNET/5/LINK_UPDOWN: Line cfg on the interface protocol Bridge Aggreg
+%%10OPTMOD/4/MODULE_OUT(l): is GigabitEthernet Ten transceiver The absent
+%%10OSPF/5/OSPF_NBR_CHG(l): interface to from OSPF Vlan Neighbor Down Way
+%%10CFGMAN/5/CFGMAN_CFGCHANGED:on is GigabitEthernet Ten the interface UP
+%%10SHELL/5/SHELL_LOGINFAIL(l): on to from failed in user VTY log  TELNET
+%%10IFNET/5/LINK_UPDOWN: Line cfg on the interface protocol Bridge Aggre
+%%10LAGG/6/LAGG_ACTIVE: is of port status link Member XGE aggregation up
+%%10DEVM/1/POWER is ID Trap power TO STATE CHANGES NORMAL hhcPowerNormal
+%%10SHELL/5/SHELL_LOGINFAIL(l): on to from failed in user VTY log TELNET
+%%10LAGG/6/LAGG_ACTIVE: of port group Member XGE aggregation BAGG active
+%%10DEV/1/POWER is ID Trap power TO STATE CHANGES NORMAL hhcPowerNormal
+%%10IFNET/5/LINK_UPDOWN: is Line on the interface protocol up FortyGigE
+%%10NTP/4/NTP_LOG(l): to from System clock after update stratum changes
+%%10SHELL/4/LOGOUT(t): from Trap display VTY logout hhcLogOut peer ospf
+%%10OSPF/5/OSPF_NBR_CHG: interface to from OSPF Vlan Neighbor Full Down
+%%10OSPF/5/OSPF_NBR_CHG: interface to from OSPF Vlan Neighbor DOWN FULL

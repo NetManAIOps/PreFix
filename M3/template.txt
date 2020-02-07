@@ -1,0 +1,317 @@
+number to OSPF LS bit false LSA Router Type ID Metric network Subnet Stub Mask in point Point interface type sequence length database checksum age State Options MaxAge MC Link EA DC Advertising Nt Neighbours address Routers
+number to OSPF LS bit false LSA Router Type ID Metric network Subnet Stub Mask in point Point type sequence length database checksum age State Options MaxAge MC Link EA DC Advertising Nt Neighbours
+number to state changed on OSPF from vlan, ExStart Exchange LS bit LSA Router ID in type sequence length database checksum age State Options MaxAge MC Link EA DC Advertising Nt
+is cfg tftp NOT HC Ten GigabitEthernet pica_autoprovision AUTOPROVISION transceiver by therefore sold shall This download config boot pica_startup pica _baidu guarante
+is number te plugged in, serial vendor to SFP state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Reason AVAGO, Init and WayReceived establish_adjacency AE
+is number te plugged in, serial vendor to SFP state changed on from FINISAR CORP qe pica_autoprovision AUTOPROVISION provision Auto NETWORK_VALID DESC_VALID
+is the NOT HC Ten GigabitEthernet transceiver of or device by thereof! therefore sold shall responsibility normal maintenance function assume This guarantee
+number OSPF LS LSA Router ID Mask in type sequence length database checksum age State Options MaxAge MC Link EA DC Advertising Network Attached
+to state changed on from SIF pica_sif qe pica_autoprovision AUTOPROVISION INIT provision Auto DESC_COLLECTING increase_l_egress_interface_re
+is number te plugged in, vendor to SFP AVAGO, bit false Router Type ID Metric network Subnet Stub Mask point Point Neighbours serlse
+to Command failed for register_instance_event_interest method XrlCmdError Handling watch finder_event_notifier add XrlFinderTarget
+Line Command vty User IPAddr cfg tftp pica_autoprovision AUTOPROVISION trust download config boot pica_startup pica _baidu
+to on from port lacp of by lacpdu lag read send peer failed,Transport Attempt short reset header, Connection fTacacs acct
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Reason Init and WayReceived establish_adtiationDone
+is te plugged in, SFP cfg tftp pica_autoprovision AUTOPROVISION download config boot pica_startup pica _baidu ven
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Reason Init and WayReceived establish_adjacency
+is on the qe in pica_autoprovision AUTOPROVISION provision Auto but whole info incomplete ap TO Int HN GZHXYA
+Command failed for lcmgr method XrlCmdError Handling pica_clear_fdb_by_port clear_fdb_by_port XrlLcmgrTarget
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Exchange Reason the switch logined Negosti
+to SIF pica_sif failed, found not increase_ref egress_id egress_entry increase_l_egress_interface_reference
+found not tftp pica_autoprovision AUTOPROVISION or download timeout service file reason failure disabled
+to state changed on from qe pica_autoprovision AUTOPROVISION provision Auto DESC_COLLECTING 
+is changed startup snmp running EventIndex Configuration ConfigSource ConfigDestination CommandSource
+to SFP qe in interface pica_autoprovision AUTOPROVISION boot mode has The pica_default switched been
+te to state changed on from pica_autoprovision AUTOPROVISION provision Auto NETWORK_VALID DESC_VALID
+is te plugged in, vendor to SFP state changed on from vlan, pica_login FINISAR Loading LIBCOMM Full
+dev XifCardManager user tty_name shell pts pid_cli lcmgr___exect_start_shell_diag execute diag bcm
+is te plugged in, serial vendor SFP FINISAR CORP out response xrl timed got Reply Sent FINDER num
+is te plugged in, serial vendor SFP pica_login FINISAR CORP LIBCOMM cfg tftp startup put NJ_IP__
+is te plugged in, serial vendor SFP pica_login PICALIBCOMM Gigalight, the switch logined chenhua
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Exchange
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Exchange Loading
+is te plugged to SFP state changed pica_login SIF LIBCOMM Interface down
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM AVAGO,
+is te plugged in, to SFP state from pica_login PICALIBCOMM Full Down ed
+is Line Command vty User IPAddr packet lvyanglvyang undo filter inbound
+is te plugged in, vendor SFP pica_login PICALIBCOMM Gigalight, sjacency
+is number plugged in, serial vendor pica_login LIBCOMM qe QSFP FINISAR,
+is number plugged in, serial vendor pica_login LIBCOMM qe QSFP WTD, BP
+is plugged in, serial pica_login LIBCOMM the RPSU switch trust logined
+to state from pica_login PICALIBCOMM RPSU change INIT PRESENT_NO_POWER
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Loading Full
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Init
+is Line Command vty User IPAddr rule ip destination permit source any
+to on from port lacp failed lacpdu lag send failed,Transport Attempt
+to state from pica_login PICALIBCOMM RPSU change PRESENT_NORMAL INIT
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Exchange Reason NegotiationDone
+to state changed on from qe pica_autoprovision AUTOPROVISION provision Auto DESC_RCVD 
+to state changed on from qe pica_autoprovision AUTOPROVISION INIT provision Auto DESC_COLLECTING
+qe and in interface switch pica_autoprovision AUTOPROVISION boot mode system reboot pica_default
+is down the pica_autoprovision AUTOPROVISION for system reboot success, now going Autoprovision
+to state changed on from pica_autoprovision AUTOPROVISION provision Auto NETWORK_VALID TFTP_FIN
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Exchange Loading Reason ExchangeDone
+packet for ms dev trip transmitted, std statistics round received, min max loss, avg Ping
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Loading Reason Full LoadingDone
+on the qe tftp pica_autoprovision AUTOPROVISION failed provision Auto download but file
+is to pica_autoprovision AUTOPROVISION startup config no need file, autoprovision There
+cfg tftp pica_autoprovision AUTOPROVISION download config boot pica_startup pica _baidu
+to state on from pica_login LIBCOMM Full vlan qe QSFP point Point HLO if area nbr ecv
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Exchange Reason Down KillNbr
+to state changed on OSPF from vlan, Neighbour xorp_ospfv ExStart Reason Down KillNbr
+is number plugged in, serial vendor on OSPF vlan, FINISAR Neighbour CORP DSAK chang
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM port COMPANY, 
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM SumitomoElectric,
+is number te plugged in, serial vendor SFP pica_login FINISAR PICALIBCOMM WUDWL CO
+is number te plugged in, serial to state changed SIF Interface pica_sif down RPSU
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Reason Full Down KillNbr
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Reason Init Down KillNbr
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM BROCADE, AAFLGJ
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Exchange Loading Fulbour
+LIBCOMM x, pica_lcmgr ret index byte xf, set_qsfp_soft_tx_disable disable channel
+to state from port Port tree moving forwarding discarding changed, Spanning RSTP
+the of or device thereof! responsibility normal maintenance function assume SIFe
+to state from pica_login PICALIBCOMM RPSU change PRESENT_NORMAL PRESENT_NO_POWER
+te to SFP state changed on from vlan, pica_login Loading LIBCOMM Down isghbour
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM 
+is number te plugged in, serial vendor SFP pica_login FINISAR CORP PICALIBCOMM
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Exchange Loading vlan
+is number te plugged in, serial vendor SFP pica_login FINISAR CORP pluM WVHSE
+LIBCOMM x, GTVD pica_lcmgr index xf, set_qsfp_soft_tx_disable disable channel
+te to state changed on OSPF vlan, Neighbour xorp_ospfv SIF Interface down fr
+is number plugged in, serial vendor pica_login PICALIBCOMM AVAGO, qe QSFP QE
+is number plugged in, serial vendor OSPF FINISAR CORP xorp_ospfv WVV Neighte
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM Gigalight,
+is Line Command vty User IPAddr interface trust transceiver display manuinfo
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM Molex Inc
+is number plugged in, serial vendor pica_login LIBCOMM qe QSFP FINISAR, MRL
+is number plugged in, serial vendor pica_login PICALIBCOMM qe QSFP WTD, BP
+is number te plugged in, serial vendor SFP pica_login FINISAR CORP LIBCOMM
+is number te plugged in, serial vendor SFP pica_login PICALIBCOMM COMPANY,
+to OSPF from ExStart Exchange Reason UPD len rid aut Send NegotiationDone
+is number te plugged in, serial vendor SFP pica_login AVAGO, LIBCOMM AEKB
+to SFP failed, found not increase_ref egress_id egress_entry ference
+is number te plugged in, serial vendor SFP pica_login AVAGO, LIBCOMM
+is Line Command vty User IPAddr packet lvyanglvyang filter outbound
+is Line Command vty User IPAddr interface trust transceiver display
+to changed failed config Failed RTRMGR that notify client Transport
+to state from pica_login PICALIBCOMM change Fan PRESENT_NORMAL INIT
+is Line Command vty User IPAddr rule ip destination source any deny
+is number te plugged in, serial vendor OSPF FINISAR CORP WUCXF RFP
+is Line Command vty User IPAddr cfg tftp trust startup put NJ_IP__
+to state changed on OSPF from vlan, Neighbour xorp_ospfv Full Down
+state changed on OSPF from vlan, Neighbour xorp_ospfv loading done
+te to state changed pica_login PICALIBCOMM Interface pica_sif down
+is vlan Line Command vty User IPAddr dis int configuration current
+is Line Command vty User IPAddr ospf mode plain md authentication
+number plugged in, serial vendor OSPF FINISAR Neighbour CORP RRFW
+OSPF xorp_ospfv failed send_ospf_originate_lsa_trap_response
+is vlan Line Command vty User IPAddr dis zhangshimin int cu
+is te plugged in, vendor SFP pica_login LIBCOMM RRC AVAGber
+to state changed on OSPF from vlan, Neighbour Exchange Down
+to state changed on OSPF from vlan, Neighbour ExStart Init
+to state changed on OSPF from vlan, Neighbour Loading Down
+to state changed on OSPF from vlan, Neighbour ExStart Down
+is number plugged in, serial vendor OSPF Neighbour WTD, BP
+to state changed on OSPF from vlan, Neighbour Loading Full
+is on down the Line interface Ten GigabitEthernet protocol
+te SIF pica_sif failed, create_l_egress_interface_response
+is Line Command vty User IPAddr rule ip destination permit
+is Line Command vty User IPAddr service ntp unicast server
+is Line Command vty User IPAddr packet undo filter inbound
+is number plugged in, serial vendor qe QSFP FINISAR, MRYU
+to state changed on OSPF from vlan, Neighbour Init TwoWay
+is number plugged in, serial vendor qe QSFP FINISAR, MQAF
+is number plugged in, serial vendor qe QSFP FINISAR, MRZD
+is SIF pica_sif vlan 's zero intf_id add_delete_cpu_route
+to state from RPSU change PRESENT_NORMAL PRESENT_NO_POWER
+number serial SFP pica_login PICALIBCOMM Gigalight, tedor
+is number plugged in, serial vendor qe QSFP FINISAR, MRL
+on OSPF from vlan, Neighbour the switch logouted chtrust
+to changed from clock update after System Leap Indicator
+out response xrl xorp_rtrmgr timed got Reply Sent FINDER
+is on up the Line interface Ten GigabitEthernet protocol
+is number plugged in, serial pica_login PICALIBCOMM RPSU
+to state on OSPF from vlan Send point Point HLO if area
+is number te plugged in, serial vendor SFP FINISAR CORP
+to state changed on OSPF from vlan, Neighbour Init Down
+to state changed on OSPF from vlan, Neighbour Full Down
+to state changed on OSPF from vlan, Neighbour Full Init
+to state changed vlan, SIF pica_sif down interface Vlan
+down instance has shutting died, FEA fea STATIC_ROUTES
+tftp pica_autoprovision AUTOPROVISION download success
+down instance has shutting died, FEA fea STATIC_ROUTES
+is number plugged in, serial vendor AVAGO, qe QSFP QE
+is vlan Line Command vty User IPAddr lvyanglvyang int
+is Line Command vty User IPAddr trust startup display
+to state changed vlan, SIF pica_sif up interface Vlan
+is number te plugged in, serial vendor SFP Gigalight,
+is Line Command vty User IPAddr trust display version
+OSPF neighbour link should only one have PointToPoint
+instance XRL sif RTRMGR class Death efcacbbbddddbfea@
+OSPF xorp_ospfv neighbour should configured be single
+is Line Command vty User IPAddr packet filter inbound
+to SIF in route of Failed send xrl line modify card,
+is Line Command vty User IPAddr trust device display
+te to SFP pica_login PICALIBCOMM ExStart Exchange om
+is Ten GigabitEthernet transceiver The G_BASE_SR_SFP
+is number plugged in, serial vendor qe QSFP 
+is number plugged in, serial pica_login LIBCOMM RPSU
+is Line Command vty User IPAddr trust display power
+is number te plugged in, serial vendor SFP COMPANY,
+OSPF the found failed summary wasn't delete because
+instance XRL sif RTRMGR class Death afdadcbdfcedff@
+OSPF get_nexthop get_directly_connected :ZERO
+pica_login PICALIBCOMM failed authorization STacacs
+SIF failed, route total modify_l_entry_ext_response
+down instance has shutting died, MLDIGMP MFEA_ MFEA
+LIBCOMM len x, pica_lcmgr ret index byte page addr
+on from port failed lacpdu lag send failed,Command
+OSPF xorp_ospfv failed put if ospf response metric
+OSPF the spt ms calculation Area time process End
+is Line Command vty User IPAddr trust display arp
+is number te plugged in, serial vendor SFP AVAGO,
+to SIF failed sending line xrls unexpectedly card
+OSPF UPD and neighbour timer retransmit Start REQ
+is te SFP pica_login PICALIBCOMM x, ret pluggbyte
+to changed from clock update after System stratum
+to OSPF from interface Vlan Neighbor LOADING FULL
+to state changed SIF Interface pica_sif down ae,
+to OSPF xorp_ospfv put Failed ospf group general
+OSPF UPD and neighbour timer retransmit REQ Stop
+plugged port module message into SFP_PRE Receive
+to state changed SIF Interface down ae,
+is number plugged in, serial RPSU JMQJZ
+is down Ten GigabitEthernet link status
+to state changed SIF Interface down qe
+is Line Command vty User IPAddr dis 
+te to state changed SIF Interface down
+read error XRL died STCPRequestHandler
+Ten GigabitEthernet absent Transceiver
+to state changed SIF Interface up ae,
+is up Ten GigabitEthernet link status
+OSPF neighbour timer Start inactivity
+to on OSPF from vlan len rid aut Send
+instance XRL RTRMGR class Death lcmgr
+on OSPF from vlan, LSA UPD Recv size
+te to state changed SIF Interface up
+to state changed SIF Interface up qe
+is plugged pica_login LIBCOMM in Fan
+is Line Command vty User IPAddr ospf
+is Line Command vty User IPAddr quit
+is Line Command vty User IPAddr ping
+is Line Command vty User IPAddr save
+OSPF the spt calculation Area Delay
+OSPF the spt calculation Area Begin
+OSPF Neighbour change topology cted
+number serial OSPF Neighbour ,ight,
+lacp Port entered :RX_PORT_DISABLED
+to lacp lag mode for admin Changing
+is Line Command vty User IPAddr sys
+instance XRL sif RTRMGR class Death
+to on OSPF vlan, LSA Send size ACK
+to on OSPF vlan, LSA UPD Send size
+te SFP pica_login PICALIBCOMM WVPM
+is number plugged in, serial RPSU
+to packet failed send lcmgr lldp
+out response xrl timed got Reply
+lacp Port entered :FAST_PERIODIC
+lacp Port entered :SLOW_PERIODIC
+to lacp lag wait list added Port
+XifCardManager diag_shell_is_on
+lacp Port entered :RX_DEFAULTED
+lacp Port entered :MUX_ATTACHED
+lacp Port entered :MUX_DETACHED
+read error LIBXORP xorp_rtrmgr
+neighbour should configured be
+pica_lcmgr read error LIBXORP
+lacp Port entered :RX_EXPIRED
+lacp Port entered :RX_CURRENT
+to lacp lag mode for Changing
+on port lacp pdu lac Received
+read error LIBXORP pica_snmp
+read error LIBXORP pica_stat
+to SIF vlan packet send vif
+to RTRMGR tasks run more No
+OSPF Neighbour loading done
+on SIF port packet receive
+to state changed down
+failed error XRL Read
+lacp lag mode Setting
+failed Tacacs account
+is te SFP out pulled
+failed register_instance_event_interest XifIpfix
+is Line Command vty User IPAddr rule ospf permit
+to state changed SIF Interface pica_sif down qe
+to state changed on from vlan, Exchange Loading
+to state changed on from vlan, ExStart Exchange
+te to state changed SIF Interface pica_sif down
+to state from RPSU change INIT PRESENT_NO_POWER
+to OSPF Neighbour Flooding queue lsa Attempting
+error system Tacacs connection call Interrupted
+is vlan Line Command vty User IPAddr dis int cu
+to port interface module Failed unit mode, get
+to state changed SIF Interface pica_sif up ae,
+to state changed vlan, SIF down interface Vlan
+timer XRL died STCPRequestHandler life expired
+is Line Command vty User IPAddr interface Vlan
+te to state changed OSPF SIF Interface up Nei
+to state changed SIF Interface pica_sif up qe
+te to state changed SIF Interface pica_sif up
+to state from RPSU change PRESENT_NORMAL INIT
+size message failed FEA last_mh_off Assertion
+to state changed vlan, SIF up interface Vlan
+OSPF xorp_ospfv failed ospf nbr response Put
+to state from change Fan PRESENT_NORMAL INIT
+is pica_login PICALIBCOMM qe QSFP out pulled
+to state changed on from vlan, ExStart Full
+to state changed on from vlan, Loading Full
+to state changed on from vlan, ExStart Init
+OSPF xorp_ospfv failed put if ospf response
+is Line Command vty User IPAddr system view
+OSPF HLO pri pkt options hello dead DR BDR
+is te plugged in, serial vendor SFP AVAGO,
+OSPF from LSA neighbour Flooding this came
+OSPF neighbour should configured be single
+XRL died timeout XrlPFSTCPSender Keepalive
+is number Line Command vty User IPAddr acl
+is Line Command vty User IPAddr save force
+is Line Command vty User IPAddr display
+to on OSPF from UPD vlan len rid aut Recv
+to on OSPF from UPD vlan len rid aut Send
+to on OSPF from vlan len rid aut Recv HLO
+is number plugged in, serial RPSU JMRDTJZ
+OSPF Neighbour Flooding successful Queued
+is Line Command vty User IPAddr rule ip destination permit source
+the port switch Ten GigabitEthernet logined Instance deteluofeng
+to state on OSPF from Full vlan Recv point Point HLO if area nbr
+is number te plugged in, serial vendor SFP NETWORKS, FOUNDRY ANX
+to state from pica_login LIBCOMM RPSU change PRESENT_NORMAL INIT
+on OSPF Neighbour xorp_ospfv the switch logined 
+to state from pica_login LIBCOMM change Fan PRESENT_NORMAL INIT
+is Line Command vty User IPAddr rule ip destination source deny
+to state changed on from vlan, SIF Loading Full packet receive
+to state changed on OSPF from vlan, Neighbour Exchange Loading
+to state changed on OSPF from vlan, Neighbour ExStart Exchange
+is te plugged in, vendor to SFP on from FINISAR CORP vlan aut
+is vlan Line Command vty User IPAddr dis lvyanglvyang int cur
+is Line Command vty User IPAddr trust device display manuinfo
+is Line Command vty User IPAddr interface trust display brief
+port Ten GigabitEthernet change 's topology Instance detected
+to state changed on OSPF from vlan, Neighbour ExStart TwoWay
+of by read peer Tacacs short reset header, Connection author
+to state changed from pica_login PICALIBCOMM ExStart Init S,
+is number te plugged in, serial vendor SFP SumitomoElectric,
+SIF pica_sif failed, route total modify_l_entry_ext_response
+is Line Command vty User IPAddr rule undo
+to state changed on from vlan, Full Down
+on port lacp in lacpdu sending Succeeded
+OSPF Reason UPD len rid Recv LoadingDone
+is plugged pica_login PICALIBCOMM in Fan
+failed XRL died STCPRequestHandler write
+failed XifCardManager modify_l_entry_ext
+is vlan Line Command vty User IPAddr int
+lacp trace,false set
+to state changed up
+PICALIBCOMKBBH
+route total

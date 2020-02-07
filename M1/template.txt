@@ -1,0 +1,269 @@
+XifCardManager$ usp nh_ip_list_length lcmgr_0_1_modify_l3_entry_ext ip6_mask_length ip6_list_length ip4_mask_list_length ip4_list_length egr_list_length ecmp_intf_in action
+OSPF$ type sequence number in database checksum age State Router P Options N MaxAge Mask MC Link LS ID EA E DC Advertising Network Attached length LSA
+XrlFinderTarget$ watch to register_instance_event_interest finder_event_notifier add method for failed XrlCmdError Handling Command
+REGULAR$ UNPRESENT PRESENT_NORMAL state change to RPSU from
+RTRMGR$ ospfv2 get_status common Validating with finder XRL
+RTRMGR$ Death instance class XRL NJ013C LY2 HD picash Int B
+RTRMGR$ Birth instance class XRL NJ013C LY2 HD picash Int B
+XifCardManager$ preemphasis lcmgr_0_1_set_port_prelvl port
+XifCardManager$ state lcmgr_0_1_set_port_stp_state port_id
+REGULAR$ PRESENT_ERROR UNPRESENT state change to RPSU from
+REGULAR$ progress now error connection Operation Tacacs in
+REGULAR$ UNPRESENT Fan PRESENT_NORMAL state change to from
+LCMGR$ MY_STATION_TCAM CLEAR_RESTORE index blk ipipe0 Unit
+SIF$ will the mac learned is host entry be and added route
+RTRMGR$ registering interest in NJ013C LY2 HD picash Int B
+RTRMGR$ get_status common Validating login with finder XRL
+XifFinder$ to timed send out in hello client Reply Failed
+SIF pica_sif$ zero vlan s is intf_id add_delete_cpu_route
+FINDER xorp_rtrmgr$ xrl timed response out got Sent Reply
+OSPF xorp_ospfv2$ single should neighbour configured be A
+REGULAR$ message into SFP_PRE Receive port module plugged
+REGULAR$ Molex Inc vendor SFP serial number plugged in is
+lacp$ send on lacpdu from Transport lag to failed Attempt
+XifCardManager$ lcmgr_0_1_set_port_enable enable port_id
+XifCardManager$ max_ecmp lcmgr_0_1_set_l3_route_max_ecmp
+PICALIBCOMM pica_login$ RPSU serial number plugged in is
+OSPF xorp_ospfv2$ Down Exchange to state on from changed
+OSPF xorp_ospfv2$ Init Exchange to state on from changed
+REGULAR$ PRESENT_NO_POWER INIT state change to RPSU from
+MLD6IGMP$ UNDERLYING_VIF_UP vif_index subnet pif_index peer flags changed broadcast addr MULTICAST MTU Interface Flags BROADCAST
+XifCardManager$ src_mask src_ip minor_pri lcmgr_0_1_add_ip4_flow_filter l4_sport l4_dport ip_proto flags dst_mask dst_ip vlan
+XrlFinderTarget$ resolve_xrl or not is finder exist enabled does Target method for failed XrlCmdError Handling Command
+XrlLcmgrTarget$ send_packet_from_cpu pica_send_packet_from_cpu method lcmgr for failed XrlCmdError Handling Command
+XrlLcmgrTarget$ send_packet_by_port pica_send_packet_by_port method lcmgr for failed XrlCmdError Handling Command
+RTRMGR xorp_rtrmgr$ with register picash finder err about NJ013C Int HD D2020 Command B XRL to failed Failed
+XifCardManager$ user tty_name shell pts pid_cli lcmgr_0_1_exect_start_shell_diag execute diag dev bcm
+RTRMGR$ trace_type_name switch_mirror set_trace false config&enable bool txt sif Executing finder XRL
+XifCardManager$ lcmgr_0_1_register_link_change_events sif name instance class
+XifFinder xorp_static_routes$ to timed send out in hello client Reply Failed
+XifCardManager$ trace_type trace_level_all lcmgr_0_1_set_lcmgr_trace enable
+PICALIBCOMM pica_login$ FINISAR CORP vendor serial number SFP plugged in is
+OSPF xorp_ospfv2$ LoadingDone Full Loading Reason to state on from changed
+RTRMGR$ warning set_logging_level log level txt login Executing finder XRL
+PICALIBCOMM pica_login$ Molex Inc vendor serial number SFP plugged in is
+PICALIBCOMM pica_login$ Gigalight vendor serial number SFP plugged in is
+RTRMGR$ start_transaction ospfv2_transaction ospfv2 Executing finder XRL
+XifCardManager$ lcmgr_0_1_register_stat_events stat name instance class
+XifCardManager$ lcmgr_0_1_set_port_ingress_rate_limit kbps kbpb port_id
+XifFinder pica_cardmgr$ to timed send out in hello client Reply Failed
+XifCardManager$ lcmgr_0_1_add_arp_filter ip_addr ffffffff a1c1f02 mask
+XifCardManager$ lcmgr_0_1_set_port_egress_rate_limit kbps kbpb port_id
+PICALIBCOMM pica_login$ FOXCONN vendor serial number SFP plugged in is
+PICALIBCOMM pica_login$ BROCADE vendor serial number SFP plugged in is
+PICALIBCOMM pica_login$ B@GA@@E vendor serial number SFP plugged in is
+PICALIBCOMM pica_login$ BBHCADD vendor serial number SFP plugged in is
+CARD_MANAGER$ state received machine event Card CARD_INITIALIZED_EVENT
+REGULAR$ supply power Redundancy unit RPSU serial number plugged in is
+LCMGR$ ING_SERVICE_COUNTER_TABLE_Y _soc_xgs3_mem_dma NAK failed ipipe0
+LCMGR$ ING_SERVICE_COUNTER_TABLE_X _soc_xgs3_mem_dma NAK failed ipipe0
+RTRMGR$ Shanghai Asia timezone_set shell sh program pica bin Executing
+RTRMGR$ is for entry dynamic arp already There a Commit failed Command
+XifFinder xorp_ospfv2$ to timed send out in hello client Reply Failed
+PICALIBCOMM pica_login$ to state from change RPSU PRESENT_NORMAL INIT
+XifFinder xorp_policy$ to timed send out in hello client Reply Failed
+REGULAR$ progress now Operation author short read header of Tacacs in
+XifCardManager$ limit lcmgr_0_1_set_mmu_opqueue_limit dynamic enable
+PICALIBCOMM pica_login$ to state from change PRESENT_NORMAL INIT Fan
+XifFinder pica_lcmgr$ to timed send out in hello client Reply Failed
+XifFinder pica_login$ to timed send out in hello client Reply Failed
+REGULAR$ author reset peer by short read header Connection of Tacacs
+RTRMGR$ that notify client changed Transport Failed to config failed
+lacp pica_lacp$ to send on lag lacpdu from failed Transport Attempt
+LIBXORP$ than seconds scheduled later by behind Timer Expiry *much*
+XifFinder pica_lacp$ to timed send out in hello client Reply Failed
+XifFinder pica_stat$ to timed send out in hello client Reply Failed
+OSPF xorp_ospfv2$ KillNbr Down Full Reason to state on from changed
+XifFinder xorp_igmp$ to timed send out in hello client Reply Failed
+XifFinder pica_rstp$ to timed send out in hello client Reply Failed
+REGULAR$ PRESENT_NO_POWER PRESENT_NORMAL state change to RPSU from
+REGULAR$ acct reset peer by short read header Connection of Tacacs
+XifFinder pica_sif$ to timed send out in hello client Reply Failed
+LCMGR$ ENTRY_CLEAR ING_SERVICE_COUNTER_TABLE index blk ipipe0 Unit
+LCMGR$ L3_ENTRY_IPV6_MULTICAST CLEAR_RESTORE index blk ipipe0 Unit
+RTRMGR$ set_enable_login_access_control login Executing finder XRL
+XifCardManager$ lcmgr_0_1_set_port_broadcast_control rate port_id
+XifCardManager$ lcmgr_0_1_set_port_multicast_control rate port_id
+REGULAR$ wrote send refused body failed acct Connection of Tacacs
+RTRMGR$ set_enable_snmp_access_control login Executing finder XRL
+XifCardManager$ lcmgr_0_1_clear_fdb_by_port clear_static port_id
+XifCardManager$ lcmgr_0_1_set_l3_ecmp_hashing_ext fields enable
+XifCardManager$ lcmgr_0_1_set_port_unicast_control rate port_id
+REGULAR$ PRESENT_ERROR PRESENT_NORMAL state change to RPSU from
+RTRMGR$ others has conflict addr The Commit with failed Command
+REGULAR$ PRESENT_ERROR Fan PRESENT_NORMAL state change to from
+REGULAR$ PRESENT_NO_POWER UNPRESENT state change to RPSU from
+LCMGR$ L3_DEFIP_DATA_ONLY CLEAR_RESTORE index blk ipipe0 Unit
+RTRMGR$ QD01203 QD LY2R Birth instance class XRL picash Int B
+XifCardManager$ lcmgr_0_1_set_l2_forwarding_mode cut_through
+XifCardManager$ lcmgr_0_1_add_ip4_addr_filter ip is_src mask
+REGULAR$ FINISAR CORP vendor SFP serial number plugged in is
+LCMGR$ inconsistency hardware L3_DEFIP_DATA_ONLY unit parity
+RTRMGR$ QD01203 QD LY2R registering interest in picash Int B
+OSPF xorp_ospfv2$ Exchange ExStart to state on from changed
+OSPF xorp_ospfv2$ Loading Exchange to state on from changed
+REGULAR$ system call Interrupted error connection Tacacs
+REGULAR$ supply power Redundancy unit out pulled RPSU is
+LLDP pica_lldp$ to send packet lldp lcmgr failed Attempt
+LCMGR$ ING_SERVICE_COUNTER_TABLE unit error entry parity
+MLD6IGMP$ vif updating primary invalid for address Error
+RTRMGR$ sif get_status common Validating with finder XRL
+OSPF xorp_ospfv2$ Down ExStart to state on from changed
+OSPF xorp_ospfv2$ Full ExStart to state on from changed
+OSPF xorp_ospfv2$ Full Loading to state on from changed
+OSPF xorp_ospfv2$ Init ExStart to state on from changed
+LCMGR$ inconsistency hardware L2_ENTRY_ONLY unit parity
+SIF$ xrl of modify l3 in Failed line card to send route
+lacp$ Command send on lacpdu from lag to failed Attempt
+lacp$ state notify attached Transport to failed Attempt
+lacp$ Resolve send on lacpdu from lag to failed Attempt
+AUTOPROVISION pica_autoprovision$ success tftp download
+XifCardManager$ lcmgr_0_1_delete_ports_from_lag lag_id
+XifCardManager$ speed lcmgr_0_1_set_port_speed port_id
+REGULAR$ mode interface get Failed port module unit to
+REGULAR$ INIT PRESENT_NORMAL state change to RPSU from
+LIBXORP xorp_rtrmgr$ out heap_extract father bound of
+REGULAR$ INIT Fan PRESENT_NORMAL state change to from
+SIF$ spanning port Port line card state failed to set
+XifCardManager$ pvid lcmgr_0_1_set_port_pvid port_id
+LLDP$ tx stats snmp port to send lldp failed Attempt
+OSPF xorp_ospfv2$ Down Init to state on from changed
+OSPF xorp_ospfv2$ Down Full to state on from changed
+OSPF xorp_ospfv2$ Init Full to state on from changed
+RTRMGR xorp_rtrmgr$ lcmgr01 instance class Death XRL
+SIF$ total modify_l3_entry_ext_response failed route
+OSPF$ while transmit running peer not is Attempt to
+LCMGR$ epipe0 EFP_TCAM CLEAR_RESTORE index blk Unit
+LCMGR$ epipe0 EFP_TCAM _soc_xgs3_mem_dma NAK failed
+LCMGR$ MY_STATION_TCAM TCAM error entry parity Unit
+LCMGR$ L2_ENTRY _soc_xgs3_mem_dma NAK failed ipipe0
+LCMGR$ L3_DEFIP _soc_xgs3_mem_dma NAK failed ipipe0
+LCMGR$ VFP_TCAM CLEAR_RESTORE index blk ipipe0 Unit
+XifCardManager$ mtu lcmgr_0_1_set_port_mtu port_id
+XifCardManager$ stg_id lcmgr_0_1_create_mstp_group
+SIF pica_sif$ interface down Vlan to state changed
+OSPF$ send_ospf_originate_lsa_trap_response failed
+OSPF$ tx trap retransmit Send response ospf failed
+STATIC_ROUTES$ shutting instance has down died FEA
+XifCardManager$ lcmgr_0_1_add_ports_to_lag lag_id
+XifIpfix$ register_instance_event_interest failed
+REGULAR$ INIT UNPRESENT state change to RPSU from
+LCMGR$ L3_DEFIP_DATA_ONLY unit error entry parity
+SIF pica_sif$ up interface Vlan to state changed
+RTRMGR$ status response load_startup_config_done
+MLD6IGMP$ shutting instance has down died MFEA
+RTRMGR$ module chassis Terminating signal with
+SIF pica_sif$ down Interface to state changed
+FINDER$ xrl timed response out got Sent Reply
+OSPF$ single should neighbour configured be A
+SIF$ request for address send by vif vlan arp
+OSPF$ Init Exchange on changed state from to
+OSPF$ Exchange Down on changed state from to
+LCMGR$ TCAM EFP_TCAM error entry parity Unit
+LCMGR$ L3_ENTRY_ONLY unit error entry parity
+LCMGR$ VFP_TCAM TCAM error entry parity Unit
+LCMGR$ L2_ENTRY_ONLY unit error entry parity
+SIF pica_sif$ up Interface to state changed
+OSPF$ Down ExStart on changed state from to
+OSPF$ Init ExStart on changed state from to
+OSPF$ Full ExStart on changed state from to
+OSPF$ Loading Full on changed state from to
+SIF$ egress create L3 interface failed vlan
+RTRMGR$ requested non exclusive user config
+XifCardManager$ modify_l3_entry_ext failed
+LIBXORP xorp_rtrmgr$ obj instead bad at of
+PICALIBCOMM pica_login$ pulled out SFP is
+PICALIBCOMM pica_login$ Fan plugged in is
+REGULAR$ RPSU serial number plugged in is
+LCMGR$ route traverse send l3 ipv4 failed
+SIF$ down Vlan interface changed state to
+lacp$ add Transport lag to failed Attempt
+XifIpfix$ notify_card_initialized failed
+OSPF$ metric if put response ospf failed
+OSPF$ Init Full on changed state from to
+OSPF$ Init Down on changed state from to
+OSPF$ Full Down on changed state from to
+LCMGR$ host traverse send l3 ipv4 failed
+RTRMGR$ lcmgr01 Death instance class XRL
+SIF$ true flag vif delete new arp
+RTRMGR$ entering mode user config
+RTRMGR$ leaving mode user config
+LIBXORP xorp_rtrmgr$ read error
+LIBXORP pica_lcmgr$ read error
+LIBXORP pica_login$ read error
+OSPF$ vif true interface state
+REGULAR$ account failed Tacacs
+XifCardManager$ tx rx port_id
+LIBXORP pica_snmp$ read error
+LIBXORP pica_lacp$ read error
+LCMGR$ SER Parity Error Check
+RTRMGR$ tasks run more No to
+REGULAR$ logined the switch
+XifCardManager$ lcmgr_0_1_delete_acl id
+XRL$ read died STCPRequestHandler error
+LCMGR$ timeout soc_miimc45_read id addr
+SIF$ up Vlan interface changed state to
+OSPF$ group general Failed put ospf to
+OSPF$ prefix get for Unable length to
+SIF$ delete successfully dev vlan arp
+RTRMGR$ invalid Commit failed Command
+REGULAR$ authorization failed Tacacs
+SIF$ down Interface changed state to
+SIF$ startup now load file completed
+RTRMGR$ sif Death instance class XRL
+SNMP$ vif not in iftree ifmgr found
+SNMP$ request_redist_cb6 to Failed
+AUTOPROVISION pica_autoprovision$ DESC_VALID state provision on from changed NETWORK_VALID Auto to
+OSPF xorp_ospfv2$ or SequenceNumberMismatch BadLSReq Full ExStart Reason to state on from changed
+AUTOPROVISION pica_autoprovision$ TFTP_FIN state provision on from changed NETWORK_VALID Auto to
+AUTOPROVISION pica_autoprovision$ the system reboot now going for down Autoprovision success is
+AUTOPROVISION pica_autoprovision$ startup no need file autoprovision a There is to config
+OSPF$ packet of lsa line cc XorpInvalidPacket Version Unknown Type Receive OSPF LSA from
+XrlLcmgrTarget$ modify_l3_entry_ext method lcmgr for failed XrlCmdError Handling Command
+XifCardManager$ lcmgr_0_1_add_mac_ethertype_filter ether_type drop vlan is_src mask mac
+XifFinderEventNotifier$ CARD_INITIALIZED_STATE to state in dispatching card Succeeding
+OSPF xorp_ospfv2$ establish_adjacency and Init ExStart Reason to state on from changed
+XifCardManager$ target finder_event_observer_0_1_xrl_target_birth stat instance class
+AUTOPROVISION pica_autoprovision$ r pica_startup pica l g boot tftp download config
+XifCardManager$ lcmgr_0_1_deregister_traverse_l3_route hwroute name instance class
+XifFinderEventNotifier$ CARD_RUNNING_STATE to state in dispatching card Succeeding
+OSPF xorp_ospfv2$ NegotiationDone Exchange ExStart Reason to state on from changed
+RTRMGR$ terminated snmp pica_snmp dump core aborted signal pica bin a with Command
+XifCardManager$ lcmgr_0_1_register_receive_packet_events sif name instance class
+RSTP$ tree to state port moving from forwarding discarding changed Spanning Port
+RTRMGR xorp_rtrmgr$ Transport that notify config client changed to failed Failed
+PICALIBCOMM pica_login$ SumitomoElectric vendor serial number SFP plugged in is
+OSPF xorp_ospfv2$ ExchangeDone Loading Exchange Reason to state on from changed
+RTRMGR xorp_rtrmgr$ Resolve that notify config client changed to failed Failed
+XifCardManager$ replace lcmgr_0_1_create_l3_egress_interface intf_id mac port
+SNMP$ request_redist_cb4 to Failed
+OSPF$ nbr Put response ospf failed
+SIF$ up Interface changed state to
+SIF$ flag false vif delete new arp
+SIF$ set successfully dev vlan arp
+XRL$ to stat snmp put port failed
+REGULAR$ logouted from the switch
+REGULAR$ out pulled RPSU is
+SIF$ trace config false set
+REGULAR$ out pulled Fan is
+REGULAR$ out pulled SFP is
+REGULAR$ Fan plugged in is
+REGULAR$ pulled Fan in is
+OSPF$ send ACK Failed to
+XRL$ Read failed error
+SIF$ metric new route
+RTRMGR$ Executing XRL
+RTRMGR$ xrl Expanding
+LIBXORP$ read error
+SIF$ delete route
+LCMGR$ mem Unit
+OSPF$ Exchange ExStart on changed state from to
+OSPF$ Loading Exchange on changed state from to
+REGULAR$ vendor SFP serial number plugged in is
+SIF$ fdb clear port Port line card failed to by
+SIF$ create_l3_egress_interface_response failed
+RTRMGR$ timezone_set shell sh program Expanding
+LLDP$ packet lcmgr to send lldp failed Attempt
+FEA$ size message last_mh_off failed Assertion
+OSPF$ Loading ExStart on changed state from to
+LCMGR$ L2X CLEAR_RESTORE index blk ipipe0 Unit
